@@ -1,0 +1,17 @@
+{
+  "name": "ballpark",
+  "version": "0.0.0",
+  "description": "benchmarks",
+  "author": "Sean McArthur <sean.monstar@gmail.com> (http://seanmonstar.com)",
+  "preferGlobal": true,
+  "bin": {
+    "ballpark": "./bin/ballpark.js"
+  },
+  "dependencies": {
+    "commander": "^2.2.0"
+  },
+  "devDependencies": {
+    "dbug": "^0.4.0",
+    "insist": "^0.2.3"
+  }
+}
